@@ -90,7 +90,7 @@ const Footer = () => {
               <div className="w-2 h-2 bg-primary-foreground rounded-full"></div>
             </div>
             <span className="text-sm text-muted-foreground">
-              Powered by Advanced AI & Marine Science
+              Created By Team <b>Helix</b>
             </span>
           </motion.div>
 
