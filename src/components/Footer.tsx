@@ -2,6 +2,7 @@ import { motion } from "framer-motion";
 import { Github, Linkedin, Mail, ExternalLink } from "lucide-react";
 
 const Footer = () => {
+  
   const footerSections = [
     {
       title: "DeepSea eDNA Explorer",
