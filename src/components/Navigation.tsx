@@ -56,7 +56,7 @@ const Navigation = () => {
             </div>
             <div className="absolute -top-1 -right-1 w-4 h-4 bg-accent rounded-full glow-accent animate-pulse-glow"></div>
           </div>
-          <span className="text-xl font-bold text-gradient-primary">DeepSea eDNA</span>
+          <span className="text-xl font-bold text-gradient-primary">Taxo Lab</span>
         </motion.div>
 
         {/* Desktop Navigation */}
